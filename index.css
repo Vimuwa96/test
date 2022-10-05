@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3 {
+    padding-top: 10px;
+    font-size: medium;
+    color: rgb(7, 124, 85);
+}
+
+
+.btn a {
+ color: white;
+ text-decoration: none;
+}
+
+
+body {
+    background: #DCE35B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #45B649, #DCE35B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #45B649, #DCE35B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.card-title {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    border-radius: 5px;
+}
